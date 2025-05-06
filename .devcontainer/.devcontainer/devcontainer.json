@@ -1,0 +1,12 @@
+{
+  "name": "Aztec Node Dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": []
+    }
+  }
+}
